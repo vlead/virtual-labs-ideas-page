@@ -1,0 +1,33 @@
+#+TITLE: Outreach Portal
+#+AUTHOR: VLEAD
+#+DATE: [2016-02-05 Fri]
+#+PROPERTY: results output
+#+PROPERTY: exports code
+#+SETUPFILE: ./org-templates/level-0.org
+#+options: ^:nil
+
+
+* Introduction
+  Virtual Labs is an initiative of Ministry of Human Resources, India that is
+  intended to augment the learning of engineering subjects through performing
+  experiments designed either as simulations or as remote triggered where a
+  user is connected to real equipment using a web browser. 
+
+  The evolution of virtual labs is function of realization of the ideas listed
+  here.  Some of them are work in progress and others are yet to make a
+  takeoff. 
+
+* Ideas
+** Experiment Implementation from a paper prototype
+** Experiment as a Service
+** Authentication between different software services at VLEAD
+** Developing different portals
+** Renarration
+** AWS Lambda
+** Continuous Integration
+   A lab is currently defined as a set of related experiments.  Each lab is a
+   repository on github.  To ensure evolution of software and solicit
+   contribution from folks across the world, continuous integration is to be
+   built around each lab.
+** Automation of Test Cases
+   
