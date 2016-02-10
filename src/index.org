@@ -34,7 +34,12 @@
         Virtual Labs
 
 ** Documentation
+
 ** Mailing List
+   =Issues= provided by github will be the placeholder for all the technical
+   and non technical discussions about architecture, design, features,
+   enhancements, etc., for every project.  Appropriate labels will categorize
+   the issues.
 
 * Ideas
 ** Experiment as a Service
@@ -105,5 +110,6 @@
 
 
 ** Renarration
+
 
 ** Experiment Implementation from a paper prototype
